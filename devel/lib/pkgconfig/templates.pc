@@ -1,0 +1,8 @@
+prefix=/home/matti/DT-Template/devel
+
+Name: templates
+Description: Description of templates
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
